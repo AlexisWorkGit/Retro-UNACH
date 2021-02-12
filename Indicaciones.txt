@@ -1,0 +1,6 @@
+Este proyecto se observará mejor en TurboC++.
+Se debe colocar las imágenes en la carpeta BGI.
+La ruta dentro de TurboC++ debe ser cambiada a BGI (Sin esto el proyecto no funcionara)
+
+
+Alexis Villegas 2021
